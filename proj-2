@@ -6,9 +6,5 @@ check pull
 line added in Linux
 checking pull
 checking fetch + Merge
-<<<<<<< HEAD
 merge conflicts
-
-=======
 line added checking merging conflicts
->>>>>>> 4b5a7663d1f95097c201df75b0377f6c0814e94b
